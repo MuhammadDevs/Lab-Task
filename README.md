@@ -1,3 +1,4 @@
+# Muhammad Ahmed updated the readme file and created a pull request to merge branches
 HTML Assignment
 Overview
 This repository contains my HTML assignment, where I demonstrate fundamental web development skills by creating a multi-page website. The project showcases my ability to structure content using HTML, style it with CSS, and ensure responsiveness across devices.
